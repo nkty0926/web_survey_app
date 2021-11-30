@@ -2,8 +2,8 @@
 # HOW TO RUN 
 
 ![](Images/execution.png)
-1. yarn install  
-2. yarn start 
+1. yarn install OR npm install 
+2. yarn start OR npm start 
 
 ![](Images/image1.png)
 ![](Images/image2.png)
